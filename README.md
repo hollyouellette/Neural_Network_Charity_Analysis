@@ -55,5 +55,5 @@ _What steps did you take to try and increase model performance?_
 
 Overall, the Neural Network yielded a 72% accuracy in predicting whether Alphabet Soup's donation will be used successfully by the fund recipient. This accuracy maintains consistent in predicting both failure and success. Because of this, I do think that it is a relatively successful model that could be used for predictions of this nature. 
 
-As a future recco
+As a recommendation for future optimization of this model, I would advice everagind a mthod that creates a new Sequential model with hyperparameter options. This would allow Kerastune to select which activation function to use at each hidden layer in the neural network in addition to the number of hidden layers and nerons are optimal to run an accurate model. 
 
