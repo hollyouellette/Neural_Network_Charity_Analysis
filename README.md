@@ -51,4 +51,9 @@ _What steps did you take to try and increase model performance?_
   - The model's weights are saved every 5 epochs.
   - The results are saved to an HDF5 file.
 
-Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+### Summary
+
+Overall, the Neural Network yielded a 72% accuracy in predicting whether Alphabet Soup's donation will be used successfully by the fund recipient. This accuracy maintains consistent in predicting both failure and success. Because of this, I do think that it is a relatively successful model that could be used for predictions of this nature. 
+
+As a future recco
+
